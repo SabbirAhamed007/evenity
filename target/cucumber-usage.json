@@ -1,0 +1,20 @@
+[
+  {
+    "source": "^Open evenity site$",
+    "steps": [
+      {
+        "name": "Open evenity site",
+        "aggregatedDurations": {
+          "average": 12.9569203,
+          "median": 12.9569203
+        },
+        "durations": [
+          {
+            "duration": 12.9569203,
+            "location": "Register_Card.feature:5"
+          }
+        ]
+      }
+    ]
+  }
+]
